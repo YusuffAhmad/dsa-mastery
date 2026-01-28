@@ -178,9 +178,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- **GitHub**: [@yourusername](https://github.com/YusuffAhmad)
-- **LeetCode**: [your-leetcode-profile](https://leetcode.com/u/YusuffAhmad/)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yusuff-ahmad/)
+- **GitHub**: [@YusuffAhmad](https://github.com/YusuffAhmad)
+- **LeetCode**: [YusuffAhmad](https://leetcode.com/u/YusuffAhmad/)
+- **LinkedIn**: [YusuffAhmad](https://www.linkedin.com/in/yusuff-ahmad/)
 
 ## 🌟 Acknowledgments
 
