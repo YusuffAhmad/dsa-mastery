@@ -126,7 +126,7 @@ Each LeetCode solution includes:
 
 | Topic | Implementation | LeetCode Problems | Status |
 |-------|---------------|-------------------|--------|
-| Arrays | 0/1 | 0/20 | 🔄 In Progress |
+| Arrays | 0/1 | 1/20 | 🔄 In Progress |
 | Linked Lists | 0/3 | 0/15 | ⏳ Pending |
 | Stacks | 0/2 | 0/12 | ⏳ Pending |
 | Queues | 0/3 | 0/10 | ⏳ Pending |
